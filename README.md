@@ -1,22 +1,13 @@
-# Phishing Detection Final Project 
+## 📁 Project Structure
 
-
-
-
-├── README.md
+```
+├── README.md                # Main project overview (auto-displayed on GitHub)
 │
-├── notebooks/
-│   ├── 01_eda.ipynb
-│   └── 02_modeling.ipynb
-│   └── 03_testing.ipynb
+├── notebooks/               # Jupyter notebooks
 │
-├── data/
-│   ├── raw/
-│   └── processed/
+├── data/                    # Raw and processed datasets
 │
-├── output/
-│   ├── plots/
-│   ├── models/
-│   └── logs/
+├── output/                  # Generated outputs, figures, models
 │
-└── final_report.pdf
+└── final_report.pdf         # Final written report
+```
