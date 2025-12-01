@@ -24,7 +24,7 @@ List of Tools
 │
 ├── output/      
 │   ├── plots/
-│   ├── models/
+│   └── models/
 │
 └── final_report.pdf        
 ```
