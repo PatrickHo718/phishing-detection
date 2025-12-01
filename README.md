@@ -9,8 +9,8 @@
 │   └── 03_testing.ipynb
 │
 ├── data/   
-│   ├── raw/
-│   └── processed/
+│   ├── phishing_test.csv
+│   └── phishing_train.csv
 │
 ├── output/      
 │   ├── plots/
