@@ -5,7 +5,7 @@
 List of Tools
 - Python version
 - Jupyter notebooks
-- Packages (pandas, numpy, scikit-learn, matplotlib, seaborn, PyTorch, itertools)
+- Packages (pandas, numpy, scikit-learn, matplotlib, seaborn, PyTorch, itertools, joblib)
 - Operating system (Mac, Windows, or Linux)
 
 
@@ -14,9 +14,12 @@ List of Tools
 ├── README.md 
 │
 ├── notebooks/        
-│   ├── 01_eda.ipynb
-│   ├── 02_modeling.ipynb
-│   └── 03_testing.ipynb
+│   ├── EDA.ipynb
+│   ├── Ensemble.ipynb
+│   ├── Evaluation.ipynb
+│   ├── neural_network.ipynb
+│   ├── penalty_regression.ipynb
+│   └── SVM.ipynb
 │
 ├── data/   
 │   ├── phishing_test.csv
@@ -24,7 +27,7 @@ List of Tools
 │
 ├── output/      
 │   ├── plots/
-│   └── models/
+│   └── best_model/
 │
 └── final_report.pdf        
 ```
